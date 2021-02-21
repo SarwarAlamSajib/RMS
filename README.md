@@ -1,5 +1,6 @@
 # Rastaurant Food Ordering System
 - A restaurant food ordering system in C++ programming language.
+- University project.
 
 # Features
 - Login as customer and admin
